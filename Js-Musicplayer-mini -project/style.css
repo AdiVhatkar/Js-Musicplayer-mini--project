@@ -9,6 +9,7 @@ body {
     background-image: url(./img/backgroundimg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:paleturquoise;
 }
 
 .app {
